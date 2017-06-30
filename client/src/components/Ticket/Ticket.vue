@@ -105,8 +105,9 @@
     margin-right: auto;
     width: 80%;
     &--regional{
-      color: $_red;
-      padding-bottom: 70px;
+      color: #e04631;
+      padding-top: 60px;
+      padding-bottom: 50px;
       hr{
         border: 1px solid;
         border-color: $_red;
